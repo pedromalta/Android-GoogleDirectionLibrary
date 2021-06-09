@@ -38,11 +38,16 @@ buildscript {
 }
 
 allprojects {
+    apply plugin: 'maven'
+    group = 'com.github.pedromalta'
+
     repositories {
         google()
         jcenter()
     }
 }
+
+
 
 task clean(type: Delete) {
     delete rootProject.buildDir
