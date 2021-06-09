@@ -21,7 +21,7 @@ package com.akexorcist.googledirection.request;
 import com.akexorcist.googledirection.GeocodeCallback;
 import com.akexorcist.googledirection.model.Geocode;
 import com.akexorcist.googledirection.network.Connection;
-import com.google.android.gms.maps.model.LatLng;
+import com.google.android.libraries.maps.model.LatLng;
 import com.google.gson.Gson;
 
 import java.util.List;

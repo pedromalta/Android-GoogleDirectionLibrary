@@ -18,7 +18,7 @@ limitations under the License.
 
 package com.akexorcist.googledirection.request;
 
-import com.google.android.gms.maps.model.LatLng;
+import com.google.android.libraries.maps.model.LatLng;
 
 /**
  * Created by Akexorcist on 11/29/15 AD.
